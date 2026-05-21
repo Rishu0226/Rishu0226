@@ -1,8 +1,5 @@
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=Hi+I'm+Rishabh+Dubey+👋;Senior+Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;5%2B+Years+Building+Scalable+Web+Applications"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Rishabh+Dubey!+👋;Senior+Frontend+Developer;5++Years+Crafting+UIs;Next.js,+React,+&+TypeScript" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
