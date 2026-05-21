@@ -93,7 +93,7 @@ const rishabh = {
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu0226&theme=tokyonight&hide_border=true&border_radius=10&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=Rishu0226&theme=tokyonight&hide_border=true&border_radius=10&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&stroke=0d1117&count_private=true" />
 </div>
 
 ---
