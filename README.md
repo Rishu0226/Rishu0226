@@ -1,152 +1,150 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Rishabh+Dubey!+👋;Senior+Frontend+Developer;5++Years+Crafting+UIs;Next.js,+React,+&+TypeScript" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Engineer focused on scalable, high-performance & modern web applications.
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishabh%20Dubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=62&descSize=16"/>
 
-<p align="center">
-  
-  <a href="https://portfolio-navy-nine-wsr6bxt6sy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=650&height=60&duration=3500&pause=800&color=58A6FF&lines=Hi+there%2C+I'm+Rishabh+Dubey+%F0%9F%91%8B;Senior+Frontend+Developer+%E2%9A%9B%EF%B8%8F;5%2B+Years+Building+Scalable+Web+Apps;Next.js+%7C+React.js+%7C+TypeScript+Expert;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-  <a href="https://linkedin.com/in/rishabh-dubey-64b73b1a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br/>
 
-  <a href="mailto:rishabhdubey104@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-navy-nine-wsr6bxt6sy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-dubey-64b73b1a1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhdubey104@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishu0226)
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=Rishu0226&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 💼 Senior Frontend Developer with **5+ years** experience
-- ⚛️ Specialized in **React.js, Next.js & TypeScript**
-- 🎯 Building scalable dashboards, ecommerce & enterprise platforms
-- ⚡ Strong expertise in reusable architecture & performance optimization
-- 🌐 Experienced with REST APIs, SSR & authentication systems
-- 🏢 Working on real-world production applications at **Apna Softwares**
+```typescript
+const rishabh = {
+  role: "Senior Frontend Developer",
+  experience: "5+ years",
+  company: "Apna Softwares",
+  location: "India 🇮🇳",
+  specialization: ["React.js", "Next.js", "TypeScript"],
+  focus: ["Scalable Dashboards", "Ecommerce Platforms", "Enterprise Apps"],
+  expertise: ["SSR/SSG", "REST APIs", "Auth Systems", "Performance Optimization"],
+  currentlyWorking: "Production-grade web applications @ Apna Softwares",
+  portfolio: "https://portfolio-navy-nine-wsr6bxt6sy.vercel.app/",
+};
+```
+
+- 💼 **Senior Frontend Developer** with **5+ years** of hands-on experience
+- ⚛️ Specialized in **React.js, Next.js & TypeScript** — building pixel-perfect UIs
+- 🎯 Expert in scalable dashboards, ecommerce & enterprise platforms
+- ⚡ Strong focus on **reusable component architecture** & performance optimization
+- 🌐 Experienced with **REST APIs, SSR/SSG & authentication systems**
+- 🏢 Currently building production applications at **Apna Softwares**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Frontend
-
+### ⚛️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css&theme=dark" />
 </p>
 
-## Backend & Database
-
+### 🗄️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 </p>
 
-## Tools
-
+### 🔧 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Rishu0226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
-/>
+<!-- Stats Card - shows all public + private commit counts -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishu0226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0226&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
-/>
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0226&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
 
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Rishu0226&theme=tokyonight&hide_border=true"
-/>
-
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rishu0226&theme=tokyonight&hide_border=true&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF&dates=8B949E" />
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Rishu0226&theme=tokyo-night&hide_border=true"
-/>
-
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishu0226&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
 
 ---
 
-# 🏆 Highlights
+## 📈 Contribution Graph
 
-- ✅ Built scalable frontend architectures
-- ✅ Developed reusable UI component systems
-- ✅ Optimized SEO & performance using Next.js
-- ✅ Built enterprise dashboards & ecommerce platforms
-- ✅ Strong API integration experience
-- ✅ Working on production-grade applications
-- ✅ Experience collaborating in team repositories
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishu0226&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=70a5fd" />
+</div>
 
 ---
 
-# 📌 Featured Projects
+## 🏆 Highlights
 
-| Project | Description | Tech |
+| Achievement | Details |
+|---|---|
+| 🏗️ Scalable Architecture | Built micro-frontend and modular component systems |
+| 🔄 Reusable UI Systems | Developed shared component libraries used across projects |
+| ⚡ Performance Expert | Optimized Core Web Vitals & Lighthouse scores with Next.js |
+| 🛍️ Ecommerce Platforms | End-to-end ecommerce frontends with cart, checkout & auth |
+| 🔌 API Integration | REST APIs, webhooks, JWT authentication & session management |
+| 🚀 Production Grade | Shipped real-world apps used by thousands of users |
+| 🤝 Team Collaboration | Code reviews, PRs, agile workflows in cross-functional teams |
+
+---
+
+## 📌 Featured Projects
+
+| 🚀 Project | 📝 Description | ⚙️ Tech |
 |---|---|---|
-| Portfolio Website | Modern responsive portfolio | Next.js |
-| Ecommerce Platform | Full ecommerce frontend | React + Redux |
-| Inventory Dashboard | Admin analytics platform | MERN Stack |
-| Booking System | Dynamic booking application | Next.js |
+| **Portfolio Website** | Modern responsive personal portfolio | Next.js, TailwindCSS |
+| **Ecommerce Platform** | Full-featured ecommerce frontend with cart & auth | React + Redux |
+| **Inventory Dashboard** | Admin analytics & inventory management platform | MERN Stack |
+| **Booking System** | Dynamic booking application with real-time slots | Next.js, Firebase |
 
 ---
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 <p align="left">
-
-<a href="mailto:rishabhdubey104@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://linkedin.com/in/rishabh-dubey-64b73b1a1">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Rishu0226">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+  <a href="mailto:rishabhdubey104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rishabh-dubey-64b73b1a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rishu0226" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-navy-nine-wsr6bxt6sy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=Rishu0226&label=Profile%20Views&color=0e75b6&style=flat"
-/>
-
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
