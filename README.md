@@ -66,11 +66,13 @@ const rishabh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishu0226&theme=tokyonight" />
+</div>
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Rishu0226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" />
-&nbsp;
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0226&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
-
+<div align="center">
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishu0226&theme=tokyonight" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishu0226&theme=tokyonight" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishu0226&theme=tokyonight" />
 </div>
 
 ---
