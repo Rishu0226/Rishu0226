@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi+I'm+Rishabh+Dubey+👋;Senior+Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;5%2B+Years+Building+Scalable+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi+I'm+Rishabh+Dubey+👋;Senior+Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;5%2B+Years+Building+Scalable+Web+Applications"
     alt="Typing SVG"
   />
 </h1>
@@ -34,18 +34,21 @@ Frontend Engineer focused on scalable, high-performance & modern web application
 # 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" />
 </p>
 
 ### Backend & Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
 </p>
 
 ---
@@ -54,9 +57,15 @@ Frontend Engineer focused on scalable, high-performance & modern web application
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rishu0226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img
+  height="170em"
+  src="https://github-readme-stats.vercel.app/api?username=Rishu0226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0226&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  height="170em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0226&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
 </p>
 
@@ -65,7 +74,9 @@ Frontend Engineer focused on scalable, high-performance & modern web application
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Rishu0226&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Rishu0226&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -73,7 +84,9 @@ Frontend Engineer focused on scalable, high-performance & modern web application
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishu0226&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishu0226&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
@@ -85,6 +98,7 @@ Frontend Engineer focused on scalable, high-performance & modern web application
 - ✅ Optimized SEO & performance using Next.js
 - ✅ Created enterprise dashboards & ecommerce systems
 - ✅ Strong experience with API integrations
+- ✅ Working on production-grade real-world applications
 
 ---
 
@@ -92,9 +106,9 @@ Frontend Engineer focused on scalable, high-performance & modern web application
 
 | Project | Description | Tech |
 |---|---|---|
-| Portfolio | Personal responsive portfolio | Next.js |
-| Ecommerce App | Full ecommerce frontend | React + Redux |
-| Inventory Dashboard | Analytics & management system | MERN |
+| Portfolio Website | Responsive developer portfolio | Next.js |
+| Ecommerce Platform | Modern ecommerce frontend | React + Redux |
+| Inventory Dashboard | Admin analytics system | MERN Stack |
 | Booking System | Dynamic booking platform | Next.js |
 
 ---
@@ -102,17 +116,21 @@ Frontend Engineer focused on scalable, high-performance & modern web application
 # 🌍 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/rishabh-dubey-64b73b1a1">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/Rishu0226">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rishu0226&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Rishu0226&label=Profile%20Views&color=0e75b6&style=flat"
+  />
 </p>
