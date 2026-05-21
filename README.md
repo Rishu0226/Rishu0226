@@ -67,11 +67,9 @@ const rishabh = {
 
 <div align="center">
 
-<!-- Stats Card - shows all public + private commit counts -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishu0226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0226&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Rishu0226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" />
+&nbsp;
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0226&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
 
 </div>
 
@@ -80,7 +78,7 @@ const rishabh = {
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rishu0226&theme=tokyonight&hide_border=true&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF&dates=8B949E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu0226&theme=tokyonight&hide_border=true&border_radius=10&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 ---
