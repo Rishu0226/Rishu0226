@@ -66,13 +66,26 @@ const rishabh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishu0226&theme=tokyonight" />
+
+<!-- Row 1: Key Stats as Badges — always loads, no rate limits -->
+![Stars](https://img.shields.io/github/stars/Rishu0226?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117&label=Total%20Stars)
+![Followers](https://img.shields.io/github/followers/Rishu0226?style=for-the-badge&logo=github&color=238636&labelColor=0d1117&label=Followers)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRishu0226)
+![PRs](https://img.shields.io/badge/PRs%20Merged-54%2B-ff6b6b?style=for-the-badge&logo=github&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/Total%20Commits-926%2B-f7c948?style=for-the-badge&logo=github&labelColor=0d1117)
+
 </div>
 
 <div align="center">
-  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishu0226&theme=tokyonight" />
-  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishu0226&theme=tokyonight" />
-  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishu0226&theme=tokyonight" />
+
+<!-- Row 2: Language badges -->
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Expert-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47a248?style=flat-square&logo=mongodb&logoColor=white)
+
 </div>
 
 ---
