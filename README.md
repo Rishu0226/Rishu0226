@@ -1,21 +1,15 @@
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi+I'm+Rishabh+Dubey+👋;Senior+Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;5%2B+Years+Building+Scalable+Web+Applications"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Rishabh+Dubey!+👋;Senior+Frontend+Developer;5++Years+Crafting+UIs;Next.js,+React,+&+TypeScript" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-Frontend Engineer focused on scalable, high-performance & modern web applications.
-</h3>
+<h3 align="center">Architecting scalable, high-performance web applications.</h3>
 
 <p align="center">
   <a href="https://portfolio-navy-nine-wsr6bxt6sy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-005571?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
   <a href="https://linkedin.com/in/rishabh-dubey-64b73b1a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
